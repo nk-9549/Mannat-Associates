@@ -347,6 +347,7 @@ h6 {
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
+  
 }
 #hero .btn-get-started {
   font-family: "Montserrat", sans-serif;
@@ -378,6 +379,8 @@ h6 {
   }
   #hero h2 {
     line-height: 22px;
+    text-align: justify;
+    text-justify: inter-word;
   }
 }
 
@@ -715,7 +718,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 .portfolio #portfolio-flters {
   padding: 0;
@@ -1034,6 +1037,10 @@ section {
   position: relative;
   overflow: hidden;
   border-radius: 5px;
+}
+.team p{
+  text-align: justify;
+  text-justify: inter-word;
 }
 .team .member .social {
   position: absolute;

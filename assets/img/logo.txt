@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="686 223 83 96"><g data-item-type="shape" data-item="Shape" data-logo-item="" id="logo__item--shape_1" class="logo__item">
+    <g class="logo__item__inner" transform="translate(678.369457244873 220.49999618530273) scale(1 1) rotate(-0.4264292296247354 39.164398193359375 45.457420349121094)">
+        
+<g>
+	<path fill="#010000" d="M49.9,91.5C10.7,68.9,15.7,26.3,15.8,25.9l-0.2-0.4L50,10.6V6.1L11.6,22.7c0,0-5.6,47.8,38.4,73.4v-4.4L49.9,91.5z" data-part-id="logo__item--shape_1__0"></path>
+	<linearGradient id="logo__item--shape_1__1" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" style="stop-color:#333333"></stop><stop offset="1" style="stop-color:#999999"></stop></linearGradient><path fill="#f7f7f7" d="M16.8,26.5C16.4,30.9,15,69,50,89.9V12.2L16.8,26.5z" data-part-id="logo__item--shape_1__1"></path>
+	<path fill="#ccbcbf" d="M83.2,26.5L50,12.2v77.8C87,69,83.6,30.9,83.2,26.5z" data-part-id="logo__item--shape_1__2"></path>
+	<path fill="#080001" d="M88.4,22.7L50,6.1v4.5l34.9,14.9l0.2,0.4c0.1,0.4,4.7,43-34.5,65.6L50,91.7v4.4C94,70.5,88.4,22.7,88.4,22.7z" data-part-id="logo__item--shape_1__3"></path>
+</g>
+
+    </g>
+</g><g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
+                <g class="logo__item__inner" transform="translate(704 272.5) scale(0.6282503899249194 0.6282503899249194) rotate(-0.854055027039612 35.921849952038905 19.34841654743316)">
+                    <text data-part-id="logo__item--business" dy="0" dominant-baseline="auto" alignment-baseline="auto" font-family="Montserrat" font-size="32px" fill="#30ac00" letter-spacing="0" font-weight="normal" font-style="normal" data-font-family="Montserrat" data-font-weight="normal" data-font-style="normal" data-ttf-url="/builder_assets/fontsttf/font-montserrat-bold-normal.ttf" data-font-filename="montserrat-normal-normal">M  A</text>
+                </g>
+            </g></svg>
